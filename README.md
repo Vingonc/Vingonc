@@ -1,8 +1,8 @@
 ## Oi, eu sou Vinicius Gonçalves.
 
 <div align=center>
-    <img height="180em" src ="https://awesome-github-stats.azurewebsites.net/user-stats/Vingonc?cardType=github&Background=0D1117&Text=ffffff&Title=007bff&Border=007bff&Ring=007bff&width=41%&height=195px" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vingonc&layout=compact&hide_border=false&border_color=007bff&title_color=007bff&text_color=ffffff&bg_color=0d1117" />
+    <img height="160em" src ="https://awesome-github-stats.azurewebsites.net/user-stats/Vingonc?cardType=github&Background=0D1117&Text=ffffff&Title=007bff&Border=007bff&Ring=007bff&width=41%&height=195px" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vingonc&layout=compact&hide_border=false&border_color=007bff&title_color=007bff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ## Skills
