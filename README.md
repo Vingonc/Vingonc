@@ -1,4 +1,4 @@
-## Oi, eu sou Vinicius Gonçalves.
+## Oi, eu sou Vinicius Gonçalves!
 
 <div align=center>
     <img height="160em" src ="https://awesome-github-stats.azurewebsites.net/user-stats/Vingonc?cardType=github&Background=0D1117&Text=ffffff&Title=007bff&Border=007bff&Ring=007bff&width=41%&height=195px" />
