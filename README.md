@@ -1,24 +1,37 @@
-## Oi, eu sou Vinicius Gonçalves!
-
-<div align=center>
-    <img height="160em" src ="https://awesome-github-stats.azurewebsites.net/user-stats/Vingonc?cardType=github&Background=0D1117&Text=ffffff&Title=007bff&Border=007bff&Ring=007bff&width=41%&height=195px" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vingonc&layout=compact&hide_border=false&border_color=007bff&title_color=007bff&text_color=ffffff&bg_color=0d1117" />
+<div align="center">
+  <h1 style="margin-bottom: 0;">Vinicius Gonçalves 👾</h1>
 </div>
 
-## Skills
-![html](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-![Css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=0e6bde)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+<div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
+  <p style="margin-top: 0;"><strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> com um ano de experiência em manutenção e evolução de sistemas corporativos em ambiente de produção.</p>
+  <p>
+   Atuo na análise de incidentes, depuração e correção de código em C# e ASP clássico, além da execução de scripts SQL para correção de inconsistências de dados em banco relacional. 
+    Participo do fluxo de desenvolvimento com versionamento, pull requests e deploys via Azure DevOps.
+  </p>
+</div>
 
-## Ferramentas
-![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=a55eff)
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=429cd5)&nbsp;
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+###
 
-## Meus contatos
-<a href="https://www.linkedin.com/in/vinicius-gonçalves-aa3031229/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<h1 align="center">Skills</h1>
 
-<a href="mailto:viniciusgcosta0122@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,nodejs,react,tailwindcss" alt="My Skills" /><br />
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,mysql,postman" alt="More Tools" />
+  <br />
+</div>
+
+###
+
+<h1 align="center">Stats 💻</h1>
+
+<div align="center">
+
+| [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vingonc&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vingonc&theme=dark) | [![GitHub Stars](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vingonc&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+</div>
