@@ -5,7 +5,7 @@
 <div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
   <p style="margin-top: 0;"><strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> com um ano de experiência em manutenção e evolução de sistemas corporativos em ambiente de produção.</p>
   <p>
-   Atuo na análise de incidentes, depuração e correção de código em C# e ASP clássico, além da execução de scripts SQL para correção de inconsistências de dados em banco relacional. 
+   Atuo na análise de incidentes, depuração e correção de código em C# e ASP, além da execução de scripts SQL para correção de inconsistências de dados em banco relacional. 
     Participo do fluxo de desenvolvimento com versionamento, pull requests e deploys via Azure DevOps.
   </p>
 </div>
